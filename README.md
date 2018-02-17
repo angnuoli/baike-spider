@@ -23,4 +23,4 @@ python3 spider_main.py Python 5
 
 The output will be in the output.html. 
 
-A sample output is attached.
+A sample output is attached (display in output.md).
