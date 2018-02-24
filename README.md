@@ -1,4 +1,4 @@
-# Introduction?
+# Introduction
 
 This is a simple web spider which can fetch the data from webpages related to a specific baike entry.
 
